@@ -1,10 +1,10 @@
-# 100 Days of JavaScript
+# 100 Days of Coding
 
-Built with HTML, CSS & JavaScript. No Frameworks or Libraries used.
+### My Coding Journey to be a Full-Stack Developer.
 
-|  #  |     Project     |                Live Demo                 |
-| :-: | :-------------: | :--------------------------------------: |
-| 01  | Quote Generator | [Link](https://quote-gen-1.netlify.app/) |
+|  #  |   Project    |                        Live Demo                         |
+| :-: | :----------: | :------------------------------------------------------: |
+| 01  | Project-name | [Link](https://github.com/roysunanda/100-Days-Of-Coding) |
 
 ---
 
