@@ -2,9 +2,9 @@
 
 ### My Coding Journey to be a Full-Stack Developer.
 
-|  #  |   Project    |                        Live Demo                         |
-| :-: | :----------: | :------------------------------------------------------: |
-| 01  | Project-name | [Link](https://github.com/roysunanda/100-Days-Of-Coding) |
+| #Day | Project Name |                        Live Demo                         |
+| :--: | :----------: | :------------------------------------------------------: |
+|  01  |  Project-00  | [Link](https://github.com/roysunanda/100-Days-Of-Coding) |
 
 ---
 
